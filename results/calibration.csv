@@ -1,0 +1,7 @@
+limit_state,steel,gamma_M_recommended,mean_beta,min_beta,gamma_M_same_reliability_as_modern,gamma_M_for_min_beta_3.8
+bending,modern S355,1.0,3.462,3.345,,1.132
+bending,"reclaimed, grade confirmed by tests (R1)",1.0,3.255,3.113,1.046,1.175
+bending,"reclaimed, older steel of uncertain grade (R2)",1.0,2.662,2.378,1.2,1.338
+net_section,modern S355,1.25,4.946,4.456,,1.047
+net_section,"reclaimed, grade confirmed by tests (R1)",1.25,4.804,4.381,1.289,1.065
+net_section,"reclaimed, older steel of uncertain grade (R2)",1.25,4.276,4.038,1.457,1.168
